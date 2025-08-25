@@ -1,0 +1,235 @@
+1,BOOK,Harry Potter and the Sorcerer's Stone,Main Library,21,20.0,1234567890
+2,MAGAZINE,National Geographic - March 2024,Periodicals Section,30,5.99,1234567890
+3,CD,The Beatles - Abbey Road,Media Section,15,15.99,1234567890
+4,BOOK,The Lord of the Rings,Main Library,10,25.0,1234567890
+5,MAGAZINE,Scientific American - April 2024,Periodicals Section,27,6.99,1234567890
+6,CD,Pink Floyd - The Dark Side of the Moon,Media Section,20,18.99,1234567890
+7,BOOK,1984 by George Orwell,Main Library,25,12.99,1234567890
+8,BOOK,To Kill a Mockingbird,Main Library,19,14.99,1234567890
+9,MAGAZINE,Time - May 2024,Periodicals Section,32,4.99,1234567890
+10,CD,Adele - 30,Media Section,18,13.99,1234567890
+11,BOOK,Harry Potter and the Chamber of Secrets,Main Library,21,20.0,1234567890
+12,BOOK,Harry Potter and the Prisoner of Azkaban,Main Library,20,20.0,1234567890
+13,CD,Fleetwood Mac - Rumours,Media Section,17,16.99,1234567890
+14,MAGAZINE,Vogue - June 2024,Fashion Section,29,7.99,1234567890
+15,BOOK,The Catcher in the Rye,Main Library,23,18.0,1234567890
+16,BOOK,BEST BOOK EVER,Main library ,20,29.0,2347923874
+17,BOOK,Cheetos book,Main Library,20,15.0,23498722
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+18,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+19,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+20,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+21,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+22,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+23,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+24,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+25,CD,Abbey Road,Music Room,20,15.0,The Beatles
+26,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+27,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+28,CD,Abbey Road,Music Room,20,15.0,The Beatles
+29,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+30,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+31,CD,Abbey Road,Music Room,20,15.0,The Beatles
+32,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+33,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+34,CD,Abbey Road,Music Room,20,15.0,The Beatles
+35,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+36,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+37,CD,Abbey Road,Music Room,20,15.0,The Beatles
+38,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+39,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+40,CD,Abbey Road,Music Room,20,15.0,The Beatles
+41,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+42,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+43,CD,Abbey Road,Music Room,20,15.0,The Beatles
+44,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+45,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+46,CD,Abbey Road,Music Room,20,15.0,The Beatles
+47,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+48,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+49,CD,Abbey Road,Music Room,20,15.0,The Beatles
+50,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+51,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+52,CD,Abbey Road,Music Room,20,15.0,The Beatles
+53,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+54,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+55,CD,Abbey Road,Music Room,20,15.0,The Beatles
+56,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+57,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+58,CD,Abbey Road,Music Room,20,15.0,The Beatles
+59,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+60,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+61,CD,Abbey Road,Music Room,20,15.0,The Beatles
+62,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+63,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+64,CD,Abbey Road,Music Room,20,15.0,The Beatles
+65,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+66,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+67,CD,Abbey Road,Music Room,20,15.0,The Beatles
+68,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+69,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+70,CD,Abbey Road,Music Room,20,15.0,The Beatles
+71,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+72,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+73,CD,Abbey Road,Music Room,20,15.0,The Beatles
+74,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+75,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+76,CD,Abbey Road,Music Room,20,15.0,The Beatles
+77,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+78,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+79,CD,Abbey Road,Music Room,20,15.0,The Beatles
+80,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+81,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+82,CD,Abbey Road,Music Room,20,15.0,The Beatles
+83,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+84,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+85,CD,Abbey Road,Music Room,20,15.0,The Beatles
+86,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+87,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+88,CD,Abbey Road,Music Room,20,15.0,The Beatles
+89,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+90,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+91,CD,Abbey Road,Music Room,20,15.0,The Beatles
+92,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,4,29.99,978-0135166307
+1,BOOK,Introduction to Java,Library,5,29.99,978-0135166307
+93,BOOK,Introduction to Algorithms,Library,20,50.0,ISBN: 9780262531962
+94,CD,Abbey Road,Music Room,20,15.0,The Beatles
+95,MAGAZINE,National Geographic,Reading Room,20,10.0,April 2024
